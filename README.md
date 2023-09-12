@@ -1,4 +1,4 @@
-This is Master CI/CD for React Native Course from Udemy!!!
+This is Master CI/CD for React Native Course from Udemy.
 
 iOS: [![Build status](https://build.appcenter.ms/v0.1/apps/767fb659-deb8-4821-a4e6-deb4568bbb2e/branches/dev/badge)](https://appcenter.ms)
 <br>
